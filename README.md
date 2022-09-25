@@ -13,6 +13,21 @@ Overview of Assignment 03 - Create a GitHub Account with Git/Webstorm/GitHub/Tut
 8. Connect Webstorm to your new Repository. When you open Webstorm, select VCS and paste in the URL for your repository. This will import your GitHub repository as well as provide version control (through git).
 9. Congratulations! You have now set up Git, Webstorm, and GitHub.
 
+## Part 2: Glossary
+- **Branch** - takes a copy of the current state of the repository and branches away (parallel) to work on files in the project without messing with the "main" repository branch.
+- **Clone** - a copy of the repository that is on your computer.  
+- **Commit** - saving changes made to a file or set of files.
+- **Fetch** - fetches changes from the remote repository to your local branch without saving them (committing them). 
+- **GIT** - a version control system (VCS) that keeps track of all sorts of changes made to a project.
+- **GitHub** - an online platform that manages development using Git. 
+- **Merge** - combines the changes from one branch into another branch.
+- **Merge Conflict** - when there is an issue performing a merge - usually occurs when more than one developer is performing a merge on the same file that has modifications in the same part.
+- **Push** - sends the committed files in the branch to the remote repository.
+- **Pull** - fetching and merging the changes from the remote repository to your branch (notice how "fetch" only fetches whereas "pull" does both "fetch" and "merge").
+- **Remote** - the version of the project that is live on GitHub.com.
+- **Repository** - the storage for a project (holds the content of a project).
+
 ## References
 - Introduction to GitHub and Webstorm by Arthur H. Hendela, Ph.D. Senior University Lecturer, NJIT
 - https://docs.github.com/en
+- https://docs.github.com/en/get-started/quickstart/github-glossary
